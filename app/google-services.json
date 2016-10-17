@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "211734479925",
+    "firebase_url": "https://t091303.firebaseio.com",
+    "project_id": "t091303",
+    "storage_bucket": "t091303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211734479925:android:5b55d436b355b245",
+        "android_client_info": {
+          "package_name": "tw.com.pcschool.t091303"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211734479925-1tmm43ki4fi76381mbvilu59a17f5855.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWvl5PyyberSsoFODBDiyxwKFonlIV6s0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211734479925:android:38a1d53816291aa1",
+        "android_client_info": {
+          "package_name": "tw.com.pcschool.db101702"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211734479925-p0ln51hsc5pt3h6lkqdrtvdpki0a5kn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.com.pcschool.db101702",
+            "certificate_hash": "D9DAFA5B7989DE5D5167F0229FD5681013F0DCF3"
+          }
+        },
+        {
+          "client_id": "211734479925-1tmm43ki4fi76381mbvilu59a17f5855.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWvl5PyyberSsoFODBDiyxwKFonlIV6s0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211734479925-1tmm43ki4fi76381mbvilu59a17f5855.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
